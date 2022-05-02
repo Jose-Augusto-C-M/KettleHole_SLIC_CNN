@@ -9,6 +9,7 @@
     Name: main.py
     Author: Gabriel Kirsten Menezes (gabriel.kirsten@hotmail.com)
             Hemerson Pistori (pistori@ucdb.br)
+	    José Augusto (jose.a@ufms.br)
 
 """
 
